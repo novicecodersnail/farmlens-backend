@@ -1,0 +1,10 @@
+# Do not include azure-functions-worker in this file
+# The Python Worker is managed by the Azure Functions platform
+# Manually managing azure-functions-worker may cause unexpected issues
+
+azure-functions
+requests==2.31.0
+requests-toolbelt==1.0.0
+inference==0.9.22
+inference-sdk==0.9.16
+roboflow==1.1.23
