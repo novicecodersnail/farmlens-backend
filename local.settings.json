@@ -1,0 +1,13 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "AzureWebJobsFeatureFlags": "EnableWorkerIndexing",
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "ROBOFLOW_API_KEY":"B6ywICqHhzae76aUU5IK",
+    "ROBOFLOW_API_URL":"https://detect.roboflow.com",
+    "ROBOFLOW_WORKSPACE":"strawberry-object-detection",
+    "ROBOFLOW_MODEL_VERSION":18,
+    "AUTH_VALUES": "CSUMBFarmlens2024"
+  }
+}
